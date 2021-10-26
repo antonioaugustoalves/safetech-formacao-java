@@ -13,6 +13,7 @@ public class Programa1 {
 		
 		boolean isPresent = false;
 		char letra = 'd';
+		char letrinha = '\u0040'; //Unicode
 		
 
 		System.out.println(v1);
@@ -23,6 +24,7 @@ public class Programa1 {
 		System.out.println(v6);
 		System.out.println(isPresent);
 		System.out.println(letra);
+		System.out.println(letrinha);
 		
 
 	}
